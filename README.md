@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayyidmquthb
-- 👀 I’m interested in data science, airtificial intelligence, business, stock market, and medical imaging
+- 👀 I’m interested in big data, data visualization, and machine learning
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any data science projects
 - 📫 Feel free to email me @ sayyidmquthb@gmail.com
